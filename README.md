@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <h1 align = center>Hi there i'm SixMax06! 👋</h1>
 <h3 align = center>Coming here from Italy</h3>
 
