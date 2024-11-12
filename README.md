@@ -7,9 +7,13 @@
 
 - 🪐 My hopes for the future is to work full time in the IT industry
 
+
 <h2 align = center>Github Stats</h2>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sixmax06&hide_border=true&layout=compact" align = center>
+<table align = center><tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sixmax06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixmax06&hide_border=true&layout=compact" align="left" style="width: 100%" /></td>
+</tr></table>
 
 <!--
 **SixMax06/SixMax06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
