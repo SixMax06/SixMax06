@@ -1,5 +1,5 @@
-<center># Hi there i'm SixMax06!</center>
-###
+<center>Hi there i'm SixMax06!</center>
+
 
 <!--
 **SixMax06/SixMax06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
