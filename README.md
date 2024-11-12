@@ -1,7 +1,7 @@
 <h1 align = center>Hi there i'm SixMax06!👋</h1>
 <h3 align = center>Coming here from Italy</h3>
 
-- 🌱 I’m currently learning Python, Java and C++
+- 🌱 I’m currently learning **Python**, **Java** and **C++**
 
 - 🔭 I've worked on [Project Nearbize](https://github.com/matteofogazzi/progetto-informatico-TPSIT)
 
