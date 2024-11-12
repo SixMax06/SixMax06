@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 <h1 align = center>Hi there i'm SixMax06!👋</h1>
 <h3 align = center>Coming here from Italy</h3>
 
@@ -9,11 +8,10 @@
 - 🪐 My hopes for the future is to work full time in the IT industry
 
 <h2 align = center>Github Stats</h2>
+<div align = center><img src = "https://github-readme-stats.vercel.app/api?username=sixmax06&show_icons=true&count_private=true&hide_border=true" width= 50%></div>
 
-<div class = grid>
-    <div><img src="https://github-readme-stats.vercel.app/api?username=sixmax06&show_icons=true&count_private=true&hide_border=true" width="50%"></div>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixmax06&hide_border=true&layout=compact" width="50%"></div>
-</div>
+<h2 align = center>Used Languages</h2>
+<div align = center><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sixmax06&hide_border=true&layout=compact" width = 50% align = center></div>
 
 <!--
 **SixMax06/SixMax06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
