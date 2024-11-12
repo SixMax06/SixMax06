@@ -1,5 +1,8 @@
-<center>Hi there i'm SixMax06!</center>
+<h1 align = center>Hi there i'm SixMax06! 👋</h1>
+<h3 align = center>Coming here from Italy</h3>
 
+- 🌱 I’m currently learning Python, Java and C++
+- 🪐 My hopes for the future is to work full time in the IT industry
 
 <!--
 **SixMax06/SixMax06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
