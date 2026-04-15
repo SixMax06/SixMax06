@@ -12,11 +12,11 @@
 
 <h2 align=center>Used Languages</h2>
 <div align=center>
-  <img src='https://www.svgrepo.com/show/452091/python.svg' width=10% margin=20px>
-  <img src='https://www.svgrepo.com/show/303388/java-4-logo.svg' width=10% margin=20px>
-  <img src='https://www.svgrepo.com/show/353614/c-plusplus.svg' width=10% margin=20px>
-  <img src='https://www.svgrepo.com/show/349474/php.svg' width=10% margin=20px>
-  <img src='https://www.svgrepo.com/show/349419/javascript.svg' width=10% margin=20px>
+  <img src='https://www.svgrepo.com/show/452091/python.svg' width=10%>
+  <img src='https://www.svgrepo.com/show/303388/java-4-logo.svg' width=10%>
+  <img src='https://www.svgrepo.com/show/353614/c-plusplus.svg' width=10%>
+  <img src='https://www.svgrepo.com/show/354180/php.svg' width=10%>
+  <img src='https://www.svgrepo.com/show/349419/javascript.svg' width=10%>
 </div>
 
 <!--
