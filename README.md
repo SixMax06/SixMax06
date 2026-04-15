@@ -8,10 +8,16 @@
 - 🪐 My hopes for the future is to work full time in the IT industry
 
 <h2 align = center>Github Stats</h2>
-<div align = center><img src = "https://github-readme-stats.vercel.app/api?username=sixmax06&show_icons=true&count_private=true&hide_border=true" width= 50%></div>
+<div align = center><img src = "https://streak-stats.demolab.com/?user=SixMax06" width=50%></div>
 
-<h2 align = center>Used Languages</h2>
-<div align = center><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sixmax06&hide_border=true&layout=compact" width = 50% align = center></div>
+<h2 align=center>Used Languages</h2>
+<div align=center>
+  <img src='https://www.svgrepo.com/show/452091/python.svg' width=10% margin=20px>
+  <img src='https://www.svgrepo.com/show/303388/java-4-logo.svg' width=10% margin=20px>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width=10% margin=20px>
+  <img src='https://www.svgrepo.com/show/349474/php.svg' width=10% margin=20px>
+  <img src='https://www.svgrepo.com/show/349419/javascript.svg' width=10% margin=20px>
+</div>
 
 <!--
 **SixMax06/SixMax06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
