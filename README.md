@@ -1,11 +1,21 @@
 <h1 align = center>Hi there i'm SixMax06!👋</h1>
 <h3 align = center>Coming here from Italy</h3>
 
-- 🌱 I’m currently learning **Python**, **Java** and **C++**
+- 🎮 I'm a very nerdy guy and i love to play videogames and watch anime
 
-- 🔭 I've worked on [Project Nearbize](https://github.com/matteofogazzi/progetto-informatico-TPSIT)
+- 🏫 I studied at IIS Benedetto Castelli in the city of Brescia, Italy
 
 - 🪐 My hopes for the future is to work full time in the IT industry
+
+<h2 align = center>My Projects</h2>
+
+I have worked on many projects during my time in school, which include:
+
+- [Enigma Machine Simulator](https://github.com/SixMax06/EnigmaMachine)
+
+- [Parking-Lots Management System](https://github.com/SteMarco07/Parcheggio)
+
+- [Biscord Group Chat](https://github.com/PaoloRobolini/Chat-di-Gruppo)
 
 <h2 align = center>Github Stats</h2>
 <div align = center><img src = "https://streak-stats.demolab.com/?user=SixMax06" width=60%></div>
