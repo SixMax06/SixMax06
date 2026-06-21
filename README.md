@@ -3,7 +3,7 @@
 
 - 🎮 I'm a very nerdy guy and i love to play videogames and watch anime
 
-- 🏫 I studied at IIS Benedetto Castelli in the city of Brescia, Italy
+- 🏫 I graduated at IIS Benedetto Castelli located in the city of Brescia, Italy (Class of 2026)
 
 - 🪐 My hopes for the future is to work full time in the IT industry
 
